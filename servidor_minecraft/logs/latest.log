@@ -1,0 +1,734 @@
+[27Sep2024 00:01:02.659] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[27Sep2024 00:08:44.238] [repurposedstructures-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[27Sep2024 00:09:29.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[27Sep2024 00:09:32.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24045, l='ServerLevel[world]', x=27.35, y=65.00, z=189.83] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:32.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24044, l='ServerLevel[world]', x=30.67, y=65.00, z=189.52] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:32.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24035, l='ServerLevel[world]', x=31.20, y=65.02, z=191.64] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:09:32.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24046, l='ServerLevel[world]', x=30.21, y=65.00, z=189.98] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:32.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24036, l='ServerLevel[world]', x=32.75, y=65.00, z=189.04] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:09:44.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24100, l='ServerLevel[world]', x=26.69, y=66.00, z=189.87] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:44.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24096, l='ServerLevel[world]', x=32.35, y=64.50, z=188.83] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:44.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24097, l='ServerLevel[world]', x=32.75, y=65.00, z=191.84] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:44.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24095, l='ServerLevel[world]', x=28.54, y=65.00, z=188.92] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:46.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24102, l='ServerLevel[world]', x=29.84, y=65.00, z=190.84] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:09:48.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24101, l='ServerLevel[world]', x=30.50, y=65.00, z=191.94] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:48.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24147, l='ServerLevel[world]', x=30.93, y=66.23, z=189.09] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:09:48.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24146, l='ServerLevel[world]', x=32.08, y=65.23, z=189.51] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:09:48.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24145, l='ServerLevel[world]', x=32.99, y=66.23, z=192.37] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:09:53.060] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[27Sep2024 00:09:54.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24173, l='ServerLevel[world]', x=29.33, y=65.65, z=189.12] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:09:59.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[27Sep2024 00:10:02.962] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[27Sep2024 00:10:02.962] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:10:04.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24328, l='ServerLevel[world]', x=32.21, y=65.00, z=192.36] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:08.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24329, l='ServerLevel[world]', x=31.34, y=65.00, z=193.65] died: Forge Sentry was slain by Debris Miner
+[27Sep2024 00:10:08.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24389, l='ServerLevel[world]', x=31.90, y=65.00, z=192.81] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:10:08.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24388, l='ServerLevel[world]', x=30.27, y=65.00, z=190.19] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:10:10.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24409, l='ServerLevel[world]', x=35.06, y=65.00, z=193.38] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:10.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24410, l='ServerLevel[world]', x=33.32, y=65.00, z=188.28] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:13.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24411, l='ServerLevel[world]', x=34.61, y=65.00, z=192.48] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:10:14.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JuanJo moved wrongly!
+[27Sep2024 00:10:15.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24438, l='ServerLevel[world]', x=36.61, y=65.65, z=194.52] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:16.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24443, l='ServerLevel[world]', x=35.76, y=65.00, z=193.74] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:20.066] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24442, l='ServerLevel[world]', x=35.25, y=65.93, z=192.86] died: Forge Sentry was slain by Debris Miner
+[27Sep2024 00:10:20.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24444, l='ServerLevel[world]', x=35.82, y=65.00, z=194.99] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:20.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24475, l='ServerLevel[world]', x=35.77, y=65.85, z=196.01] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:10:22.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24485, l='ServerLevel[world]', x=34.60, y=65.00, z=193.00] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:10:22.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24440, l='ServerLevel[world]', x=39.23, y=65.80, z=193.04] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:32.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24586, l='ServerLevel[world]', x=30.70, y=65.00, z=190.61] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:10:32.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24587, l='ServerLevel[world]', x=34.60, y=65.00, z=191.21] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:10:33.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24602, l='ServerLevel[world]', x=38.64, y=67.92, z=187.41] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:35.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24570, l='ServerLevel[world]', x=29.92, y=65.00, z=193.12] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:10:36.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24603, l='ServerLevel[world]', x=35.37, y=65.00, z=193.08] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:10:43.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24666, l='ServerLevel[world]', x=27.47, y=65.85, z=191.45] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:43.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24664, l='ServerLevel[world]', x=33.30, y=65.00, z=193.35] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:47.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24700, l='ServerLevel[world]', x=30.03, y=65.00, z=191.08] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:48.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24701, l='ServerLevel[world]', x=29.65, y=65.00, z=190.58] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:48.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24698, l='ServerLevel[world]', x=30.22, y=65.00, z=191.65] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:49.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24717, l='ServerLevel[world]', x=30.40, y=65.77, z=191.24] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:49.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24725, l='ServerLevel[world]', x=31.70, y=64.00, z=191.70] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:10:50.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24665, l='ServerLevel[world]', x=29.88, y=65.00, z=191.67] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:50.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24716, l='ServerLevel[world]', x=28.91, y=65.65, z=192.06] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:52.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24714, l='ServerLevel[world]', x=29.73, y=65.00, z=189.25] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:52.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24699, l='ServerLevel[world]', x=29.55, y=64.00, z=193.35] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:10:56.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24726, l='ServerLevel[world]', x=29.84, y=65.63, z=192.46] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:06.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24854, l='ServerLevel[world]', x=30.30, y=65.65, z=190.96] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:06.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24850, l='ServerLevel[world]', x=29.48, y=65.65, z=192.70] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:08.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24867, l='ServerLevel[world]', x=33.13, y=65.00, z=193.20] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:08.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24866, l='ServerLevel[world]', x=29.90, y=65.00, z=189.85] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:12.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24852, l='ServerLevel[world]', x=32.97, y=65.65, z=191.84] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:12.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24888, l='ServerLevel[world]', x=34.45, y=65.00, z=192.32] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:14.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24864, l='ServerLevel[world]', x=33.82, y=65.00, z=192.16] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:14.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24887, l='ServerLevel[world]', x=34.41, y=65.00, z=192.49] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:16.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/24889, l='ServerLevel[world]', x=34.22, y=65.00, z=193.61] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:20.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25066, l='ServerLevel[world]', x=37.14, y=65.00, z=195.26] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:23.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25079, l='ServerLevel[world]', x=28.95, y=65.00, z=190.70] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:23.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25078, l='ServerLevel[world]', x=29.68, y=64.00, z=193.65] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:25.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25067, l='ServerLevel[world]', x=28.63, y=65.00, z=189.88] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:25.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25068, l='ServerLevel[world]', x=27.50, y=65.00, z=187.34] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:31.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25081, l='ServerLevel[world]', x=39.91, y=65.55, z=192.72] died: Forge Sentry was slain by Debris Miner
+[27Sep2024 00:11:36.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25161, l='ServerLevel[world]', x=25.46, y=65.00, z=188.86] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:37.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/24865, l='ServerLevel[world]', x=30.44, y=62.00, z=186.65] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:37.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25137, l='ServerLevel[world]', x=28.18, y=65.22, z=185.89] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:37.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25125, l='ServerLevel[world]', x=27.76, y=65.00, z=187.86] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:37.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25139, l='ServerLevel[world]', x=28.05, y=65.33, z=186.85] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:37.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25084, l='ServerLevel[world]', x=28.38, y=65.00, z=188.41] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:39.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25165, l='ServerLevel[world]', x=28.00, y=66.36, z=187.15] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:45.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25252, l='ServerLevel[world]', x=29.15, y=64.00, z=193.35] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:45.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25163, l='ServerLevel[world]', x=34.63, y=65.65, z=200.30] died: Forge Sentry was slain by Debris Miner
+[27Sep2024 00:11:47.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25275, l='ServerLevel[world]', x=26.67, y=65.00, z=188.53] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:48.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25251, l='ServerLevel[world]', x=28.14, y=65.00, z=185.65] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:11:51.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25253, l='ServerLevel[world]', x=29.40, y=65.00, z=192.66] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:52.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25254, l='ServerLevel[world]', x=30.58, y=64.00, z=193.62] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:11:52.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25273, l='ServerLevel[world]', x=31.21, y=65.00, z=193.70] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:53.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25218, l='ServerLevel[world]', x=37.73, y=65.00, z=195.33] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:56.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25219, l='ServerLevel[world]', x=39.53, y=65.00, z=193.42] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:56.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25274, l='ServerLevel[world]', x=39.29, y=65.00, z=192.88] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:11:56.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25276, l='ServerLevel[world]', x=39.93, y=65.40, z=192.16] died: Forge Sentry was slain by Debris Miner
+[27Sep2024 00:11:58.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25217, l='ServerLevel[world]', x=38.50, y=65.00, z=194.45] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:12:10.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25470, l='ServerLevel[world]', x=30.42, y=65.00, z=190.27] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:12:10.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25481, l='ServerLevel[world]', x=33.25, y=65.43, z=191.35] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:10.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25482, l='ServerLevel[world]', x=32.35, y=64.00, z=188.14] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:10.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25476, l='ServerLevel[world]', x=32.37, y=65.65, z=189.17] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:11.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25474, l='ServerLevel[world]', x=35.59, y=65.65, z=194.35] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:12:16.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25546, l='ServerLevel[world]', x=29.54, y=65.08, z=190.48] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:19.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25478, l='ServerLevel[world]', x=35.70, y=65.66, z=193.43] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:20.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25480, l='ServerLevel[world]', x=37.42, y=65.65, z=194.74] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:12:20.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25577, l='ServerLevel[world]', x=32.92, y=65.00, z=192.12] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:21.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25574, l='ServerLevel[world]', x=31.08, y=65.00, z=193.59] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:22.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25547, l='ServerLevel[world]', x=32.55, y=65.08, z=193.65] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:22.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25545, l='ServerLevel[world]', x=31.86, y=65.00, z=193.65] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:12:23.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25575, l='ServerLevel[world]', x=31.07, y=65.00, z=193.33] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:25.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25714, l='ServerLevel[world]', x=30.33, y=65.58, z=192.78] died: Debris Miner was slain by JuanJo
+[27Sep2024 00:12:29.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25735, l='ServerLevel[world]', x=29.89, y=65.00, z=189.63] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:29.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25734, l='ServerLevel[world]', x=30.65, y=65.00, z=190.39] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:32.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25733, l='ServerLevel[world]', x=31.99, y=65.00, z=193.63] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:33.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25793, l='ServerLevel[world]', x=31.81, y=65.65, z=189.30] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:12:33.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25576, l='ServerLevel[world]', x=31.56, y=65.00, z=191.77] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:33.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25791, l='ServerLevel[world]', x=33.01, y=65.00, z=192.65] died: Forge Sentry was slain by JuanJo
+[27Sep2024 00:12:35.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/25789, l='ServerLevel[world]', x=32.30, y=65.00, z=193.12] died: Forge Sentry was killed trying to hurt JuanJo
+[27Sep2024 00:19:06.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25951, l='ServerLevel[world]', x=39.46, y=65.84, z=192.87] died: Debris Miner was slain by Forge Sentry
+[27Sep2024 00:20:04.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[27Sep2024 00:20:06.657] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/25949, l='ServerLevel[world]', x=45.70, y=65.00, z=177.55] died: Debris Miner was slain by Forge Sentry
+[27Sep2024 00:23:46.927] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[27Sep2024 00:23:46.927] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:23:46.927] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[27Sep2024 00:23:46.928] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:24:28.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[27Sep2024 00:26:02.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juls_354 has made the advancement [Masquerade]
+[27Sep2024 00:27:19.817] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[27Sep2024 00:27:19.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:27:19.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[27Sep2024 00:27:19.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[27Sep2024 00:27:35.246] [Server thread/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[27Sep2024 00:27:49.766] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[27Sep2024 00:27:49.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:27:49.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:27:52.271] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 1025
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.rehash(Long2ObjectOpenHashMap.java:1335) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.insert(Long2ObjectOpenHashMap.java:279) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.put(Long2ObjectOpenHashMap.java:287) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197263_(StructureCheck.java:222) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197282_(StructureCheck.java:218) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.level.ServerLevel.lambda$onStructureStartsAvailable$24(ServerLevel.java:1526) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Sep2024 00:27:52.276] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 1025
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.rehash(Long2ObjectOpenHashMap.java:1335) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.insert(Long2ObjectOpenHashMap.java:279) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.put(Long2ObjectOpenHashMap.java:287) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197263_(StructureCheck.java:222) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197282_(StructureCheck.java:218) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.level.ServerLevel.lambda$onStructureStartsAvailable$24(ServerLevel.java:1526) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Sep2024 00:27:52.280] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 1025
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.rehash(Long2ObjectOpenHashMap.java:1335) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.insert(Long2ObjectOpenHashMap.java:279) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.put(Long2ObjectOpenHashMap.java:287) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197263_(StructureCheck.java:222) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197282_(StructureCheck.java:218) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.level.ServerLevel.lambda$onStructureStartsAvailable$24(ServerLevel.java:1526) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Sep2024 00:27:52.292] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 1025
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.rehash(Long2ObjectOpenHashMap.java:1335) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.insert(Long2ObjectOpenHashMap.java:279) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.put(Long2ObjectOpenHashMap.java:287) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197263_(StructureCheck.java:222) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureCheck.m_197282_(StructureCheck.java:218) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.level.ServerLevel.lambda$onStructureStartsAvailable$24(ServerLevel.java:1526) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23641!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Sep2024 00:27:52.317] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:52.768] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:52.768] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:53.574] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:53.580] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:53.583] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:53.583] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:53.591] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:53.617] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:53.617] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:56.366] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:56.371] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:58.915] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[27Sep2024 00:27:58.915] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:27:58.915] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[27Sep2024 00:27:58.915] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[27Sep2024 00:27:59.377] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:59.378] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:59.378] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:27:59.382] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.243] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.243] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.245] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.277] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.280] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.358] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.394] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:00.394] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:01.261] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:01.261] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:01.262] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:01.331] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:01.332] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:02.476] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:02.476] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:02.479] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:03.276] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:03.323] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:03.323] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:03.342] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.522] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.523] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.523] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.523] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.525] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.747] [Worker-Main112/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Sep2024 00:28:04.747] [Worker-Main112/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Sep2024 00:28:04.756] [Worker-Main112/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Sep2024 00:28:04.756] [Worker-Main112/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Sep2024 00:28:04.756] [Worker-Main112/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Sep2024 00:28:04.820] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.827] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.870] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:04.870] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:05.375] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:05.395] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:05.527] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:05.714] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:28:05.714] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[27Sep2024 00:28:05.884] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:05.893] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.039] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.043] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.049] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.077] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.078] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.078] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.082] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.082] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.086] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.087] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:22.172] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:23.032] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:23.878] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:23.889] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:23.928] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:25.877] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:25.879] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:25.879] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:25.895] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:25.896] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:25.896] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:25.928] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.403] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.405] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.430] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.431] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.436] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.440] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.440] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.448] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:26.470] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:27.299] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:27.621] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.499] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.520] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.539] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.542] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.543] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.543] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.571] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.571] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.575] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.586] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.593] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.624] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.624] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.624] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.624] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.624] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:28.633] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:29.200] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:29.224] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:29.234] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:29.244] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:29.287] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.092] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.144] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.691] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.694] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.727] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.727] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.727] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.770] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:30.995] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.026] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.035] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.072] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.072] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.076] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.077] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.077] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.126] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.126] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.292] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.293] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.293] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.327] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.327] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.338] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.375] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.375] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.375] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.375] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:31.375] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.381] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.574] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.574] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.574] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.574] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.579] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.597] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.597] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.627] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.628] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.628] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.628] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.628] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.640] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.640] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.640] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.640] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.640] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.676] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.676] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.676] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.676] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.676] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.676] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.676] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.677] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.677] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.678] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.678] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:33.688] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.577] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.937] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.974] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.976] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.976] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.977] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.981] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.984] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.990] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.993] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:35.997] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.022] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.030] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.033] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.044] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.071] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.071] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.071] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.074] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.085] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.088] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.088] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.088] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.570] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.570] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.571] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.571] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.571] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.571] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:36.722] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[27Sep2024 00:28:36.723] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[27Sep2024 00:28:36.931] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.008] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.042] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.082] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.092] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.522] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.522] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.522] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:37.524] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.871] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.873] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.884] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.925] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.925] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.928] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.928] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.941] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.941] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.941] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.941] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.942] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.970] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.970] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.970] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.970] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.971] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.971] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.971] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.974] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.975] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.981] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.982] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.982] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:38.988] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:39.037] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:39.037] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:39.043] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:39.229] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:39.287] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.127] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.128] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.145] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.180] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.181] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.181] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.181] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.649] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:40.650] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.073] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.073] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.073] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.078] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.492] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.525] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.529] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.547] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.547] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:41.569] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:42.421] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:28:42.428] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[27Sep2024 00:29:42.451] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[27Sep2024 00:29:42.451] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[27Sep2024 00:29:42.974] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 667b2f92-198f-40e2-adcb-18c05a429389
+[27Sep2024 00:29:43.016] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 47089cde-0bde-4c8f-932d-0069a7a478f5
+[27Sep2024 00:29:43.017] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/1erservidor/servidor_minecraft/./crash-reports/crash-2024-09-27_00.29.42-server.txt
